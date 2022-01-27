@@ -1,0 +1,1 @@
+./venv/Scripts/python ../TdB/src/manage.py runserver
